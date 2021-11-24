@@ -2,10 +2,10 @@
 
 Monitors the relative price of the PEOPLE/ETH price pair on Uniswap.
 
-2 methods of price collection:
-MainWSS -> Collects live-time prices when they change.
-MainHTTP -> Collects live time prices.
-To change the method simple change the final line of code on index.js to methodname(); -> Example: mainWSS();
+## 2 methods of price collection:
+* MainWSS -> Collects live-time prices when they change.
+* MainHTTP -> Collects live time prices.
+* To change the method simple change the final line of code on index.js to methodname(); -> Example: mainWSS();
 
 ### Note
 
